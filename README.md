@@ -1,3 +1,19 @@
+# MOLTIS-FORK
+
+## Origine
+- Fork de : **Moltis**
+- Auteur : moltis-org
+- Dépôt d'origine : https://github.com/moltis-org/moltis
+- Forké le 13.11.2026 par OMNIKORP-FAKTORY, avec tout l'historique et toutes les branches
+
+## Rôle chez OMNIKORP
+Prétendant d'AGENT SOFIA (S7), conservé comme preuve et sauvegarde, et étudié dans la chaîne EXTRACTION, COMPARAISON, FUSION.
+
+## Licence
+MIT, inchangée dans le fichier LICENSE.
+
+---
+
 <div align="center">
 
 <a href="https://moltis.org"><img src="https://raw.githubusercontent.com/moltis-org/moltis/main/website/favicon.svg" alt="Moltis" width="64"></a>
